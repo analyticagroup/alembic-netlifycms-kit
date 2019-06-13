@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About this website
+feature_image: /assets/uploads/check-this-picture.jpg
+image: /assets/uploads/check-this-picture.jpg
 ---
-
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+Welcome to Aspire Within Psychotherapy!
