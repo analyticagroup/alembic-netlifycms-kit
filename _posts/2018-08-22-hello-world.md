@@ -1,19 +1,13 @@
 ---
 layout: post
-title: Hello World
-feature_image: 'https://picsum.photos/2560/600?image=872'
-feature_text: CUMSHOTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+title: Welcome to Jackson's Therapy Center
+feature_image: /assets/uploads/check-this-picture.jpg
+feature_text: Welcome Jackie!
 categories:
   - General
 ---
-FUCK MY NUTS BAQBY
+Hi,
 
 
 
-THOMAS LOVES THE BBC...
-
-
-
-
-
-British Broadcasting Company of course, not the BIG BLACK COCK
+This is our website to discuss the lovely work we do here at Aspire Within Psychotherapy.
