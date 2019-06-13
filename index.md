@@ -1,9 +1,8 @@
 ---
-title: Welcome to my website
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
-feature_text: |
-  ## Hello world
+title: Welcome to my website
+feature_image: /assets/uploads/check-this-picture.jpg
+feature_text: '## This is Jackie!!'
+image: /assets/uploads/check-this-picture.jpg
 ---
-
-There isn't much going on here yet, but watch this space
+Welcome to Psychotherapy Milestones!
